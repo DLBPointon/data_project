@@ -1,0 +1,82 @@
+	specimen	N50	N90	plot-ccs_readlength_hist	group	project	prefix
+1852	idDasAlbo1	13372.0	5537.0		darwin/insects	darwin	id
+1873	idSarCaer1	11013.0	4822.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210812_110227/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+1879	idLeuLate1	8273.0	3799.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64125e_20210826_164820/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+1880	idBraLaph1	13333.0	7371.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64222e_20220617_104326/2_B01/reports/ccs_readlength_hist_plot.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+1906	idTheAcut1	13193.0	8400.0		darwin/insects	darwin	id
+1907	idTheAcut1	14375.0	8506.0		darwin/insects	darwin	id
+1946	idMacAtri3	9588.0	4394.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64229e_20210709_160326/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+1958	idEriTena2	11602.0	7974.0		darwin/insects	darwin	id
+1991	idChrBici1	12825.0	7643.0		darwin/insects	darwin	id
+1992	idChrBici1	11364.0	5545.0		darwin/insects	darwin	id
+1998	idCisGlob1	13509.0	7060.0		darwin/insects	darwin	id
+1999	idCisGlob1	14065.0	8053.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210422_175945/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2000	idCisGlob1	8858.0	7849.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64094e_20220318_144220/1_A01/reports/ccs_readlength_hist_plot.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2036	idPlaAlba1	17142.0	9846.0		darwin/insects	darwin	id
+2037	idPlaAlba1	15339.0	11154.0		darwin/insects	darwin	id
+2098	idBibMarc1	7568.0	3829.0		darwin/insects	darwin	id
+2171	idEupLati1	12565.0	5551.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210715_180342/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2172	idEupLati1	14750.0	9382.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64222e_20210507_140109/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2173	idCluTigr1	15666.0	9155.0		darwin/insects	darwin	id
+2174	idCluTigr1	17216.0	11659.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64222e_20210611_152426/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2183	idBomDisc1	8846.0	3947.0		darwin/insects	darwin	id
+2198	idPheCory1	11886.0	6502.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64174e_20220420_143214/1_A01/reports/ccs_readlength_hist_plot.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2248	idPolAmen1	14838.0	9069.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210507_140102/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2249	idPolAmen1	12816.0	5467.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210715_180342/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2250	idPolAmen1	12737.0	5342.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64174e_20210820_135056/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2257	idEriArbu1	13656.0	7136.0		darwin/insects	darwin	id
+2289	idCriBerb1	11614.0	7185.0		darwin/insects	darwin	id
+2295	idPolAngu1	14956.0	8685.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64016e_20210520_150014/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2296	idPolAngu1	12778.0	4850.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64174e_20210820_135056/3_C01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2297	idXylSylv2	14128.0	8508.0		darwin/insects	darwin	id
+2299	idEupCoro1	11092.0	7122.0		darwin/insects	darwin	id
+2320	idSyrPipi1	13511.0	8438.0		darwin/insects	darwin	id
+2325	idXanPedi1	11685.0	7412.0		darwin/insects	darwin	id
+2326	idXanPedi1	11257.0	6809.0		darwin/insects	darwin	id
+2334	idMyoTess1	13115.0	6589.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20220428_155946/4_D01/reports/ccs_readlength_hist_plot.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2338	idChePaga1	13877.0	8644.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64229e_20210429_154006/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2339	idBomMajo1	11145.0	7349.0		darwin/insects	darwin	id
+2359	idBelPand1	14581.0	9222.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64228e_20210422_165616/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2360	idBelPand1	14991.0	8748.0		darwin/insects	darwin	id
+2405	idTacFera2	16180.0	10950.0		darwin/insects	darwin	id
+2425	idEpiSucc1	12937.0	6144.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64094e_20210826_122053/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2432	idCheUrba1	9792.0	6074.0		darwin/insects	darwin	id
+2443	idNepFlae1	7991.0	5019.0		darwin/insects	darwin	id
+2444	idNepFlae1	10126.0	5638.0		darwin/insects	darwin	id
+2450	idNowFero1	14551.0	8829.0		darwin/insects	darwin	id
+2457	idEpiGros1	13042.0	8427.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64097e_20210520_172219/3_C01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2507	idVolInfl1	10465.0	4762.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64097e_20210927_142411/1_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2508	idVolInfl1	14531.0	8490.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64094e_20210513_160001/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2519	idRhiCamp1	15591.0	9902.0		darwin/insects	darwin	id
+2526	idSicFerr1	12480.0	6052.0		darwin/insects	darwin	id
+2577	idEriSepu1	11400.0	4892.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64222e_20210812_110225/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2583	idMyaFlor2	15511.0	9524.0		darwin/insects	darwin	id
+2584	idSphTaen1	13944.0	8719.0		darwin/insects	darwin	id
+2602	idCorMarg1	11149.0	7965.0		darwin/insects	darwin	id
+2658	idGymRotn1	12025.0	7650.0		darwin/insects	darwin	id
+2699	idEriPert2	12803.0	7215.0		darwin/insects	darwin	id
+2710	idProAzur1	16255.0	9209.0		darwin/insects	darwin	id
+2711	idProAzur1	12899.0	4311.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20211022_121003/3_C01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2732	idScaPyra1	15327.0	7670.0		darwin/insects	darwin	id
+2733	idScaPyra1	14227.0	9856.0		darwin/insects	darwin	id
+2753	idTheAtra2	16947.0	11412.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64228e_20210624_142712/3_C01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2758	idEpiBalt1	13003.0	8225.0		darwin/insects	darwin	id
+2759	idEpiBalt1	15340.0	9538.0		darwin/insects	darwin	id
+2782	idCheVulp2	14420.0	9334.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64097e_20210604_132027/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2848	idVolInan1	11000.0	7549.0		darwin/insects	darwin	id
+2849	idVolInan1	12769.0	6588.0		darwin/insects	darwin	id
+2850	idVolInan1	15046.0	7310.0		darwin/insects	darwin	id
+2855	idSarVari1	12783.0	5899.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64097e_20210923_115004/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2856	idSarVari1	12481.0	6617.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210604_125459/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2881	idStoLuna1	14399.0	8064.0		darwin/insects	darwin	id
+2882	idStoLuna1	14306.0	8942.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210521_163334/1_A01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2900	idCalVomi1	15271.0	8529.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64222e_20210624_165237/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2901	idCalVomi1	9885.0	8788.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64228e_20220113_155842/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2904	idSarRose1	11296.0	4449.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64230e_20210917_174656/3_C01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2905	idSarRose1	14109.0	6840.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64016e_20210520_150014/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2916	idTacLuri1	12405.0	6195.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64016e_20220401_115138/1_A01/reports/ccs_readlength_hist_plot.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2935	idMelMell2	15181.0	10730.0		darwin/insects	darwin	id
+2936	idMelMell2	12659.0	5585.0		darwin/insects	darwin	id
+2942	idSarSubv1	17503.0	9949.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64125e_20210528_142922/2_B01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2943	idSarSubv1	9298.0	7725.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64229e_20220210_170800/2_B01/reports/ccs_readlength_hist_plot.png', 'HiFi read length distribution']	darwin/insects	darwin	id
+2955	idPhyMeln1	15878.0	10115.0	['https://tolqc.cog.sanger.ac.uk/seq/pacbio/r64221e_20210507_140102/4_D01/reports/ccs_readlength_hist.png', 'HiFi read length distribution']	darwin/insects	darwin	id
